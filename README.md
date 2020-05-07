@@ -11,6 +11,10 @@
 ## center-config 
  - 配置中心 Spring cloud config server
 
+## user
+ - 用户相关
+## message
+ - 消息模块
 
 ## dataway
  ### 集成 [hasor-dataway](https://github.com/zycgit/hasor)
