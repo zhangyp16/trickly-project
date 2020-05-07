@@ -1,5 +1,13 @@
 # trickly-project
 
+## 技术选型
+
+- 配置中心 (Spring cloud config + github)
+- rpc (feign + ribbon)
+- 服务注册中心 (eureka)
+- orm (mybatis)
+- cache (redis)
+
 ## center-config 
  - 配置中心 Spring cloud config server
 
